@@ -6,6 +6,7 @@ h1 {
 .chicken_Heading{
   background-color: #EB8A12;
   width: 100px;
+  margin-bottom: 50px;
   box-sizing: border-box;
   position: absolute;
   top: 0;
@@ -15,13 +16,25 @@ h1 {
 
 .beef_Heading{
   background-color: #f9906f;
-  width: 100px
+  width: 100px;
+  margin-bottom: 50px;
+  box-sizing: border-box;
+  position: absolute;
+  top: 0;
+  right: 0;
+
 
 }
 
 .kota_Heading{
   background-color: #996515;
   width: 100px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  position: absolute;
+  top: 0;
+  right: 0;
+
 }
 
 #Sections{
@@ -29,6 +42,6 @@ h1 {
   padding: 10px 20px 10px 50px;
   margin: 20px;
   width: 33.33%;
-  position: relative; 
+  position: relative;
 
 }
