@@ -10,23 +10,23 @@ section {
 
 }
 
-#chicken_Heading {
+.chicken_Heading{
   background-color: #EB8A12;
   width: 150px;
 
 }
 
-#beef_Heading {
+.beef_Heading{
   background-color: #f9906f;
   width: 150px
 
 }
 
-#kota_Heading {
+.kota_Heading{
   background-color: #996515;
   width: 150px;
 }
-#Sections {
+#Sections{
   background-color: gray;
   padding: 10px 20px 10px 50px;
   border: 2px solid black;
