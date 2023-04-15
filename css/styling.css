@@ -6,6 +6,10 @@ h1 {
 .chicken_Heading{
   background-color: #EB8A12;
   width: 100px;
+  box-sizing: border-box;
+  position: absolute;
+  top: 0;
+  right: 0;
 
 }
 
