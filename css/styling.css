@@ -12,8 +12,19 @@ section {
 
 #chicken_Heading {
   background-color: #EB8A12;
-  width: 300px;
+  width: 150px;
 
+}
+
+#beef_Heading {
+  background-color: #f9906f;
+  width: 150px
+
+}
+
+#kota_Heading {
+  background-color: #996515;
+  width: 150px;
 }
 #Sections {
   background-color: gray;
