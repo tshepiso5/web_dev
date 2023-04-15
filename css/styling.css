@@ -2,13 +2,6 @@ h1 {
   text-align: center;
 }
 
-h2 {
-
-}
-
-section {
-
-}
 
 .chicken_Heading{
   background-color: #EB8A12;
@@ -26,7 +19,8 @@ section {
   background-color: #996515;
   width: 150px;
 }
-#Sections{
+
+.Sections{
   background-color: gray;
   padding: 10px 20px 10px 50px;
   border: 2px solid black;
