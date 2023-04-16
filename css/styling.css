@@ -19,7 +19,7 @@ h1 {
 .beef_Heading{
   background-color: #f9906f;
   width: 100px;
-  height: 60px;
+  height: 30px;
   margin-bottom: 50px;
   border: 1px solid black;
   box-sizing: border-box;
@@ -32,6 +32,7 @@ h1 {
 
 .kota_Heading{
   background-color: #996515;
+  text-align: center;
   width: 100px;
   height: 60px;
   border: 1px solid black;
@@ -54,8 +55,8 @@ h1 {
   padding: 10px;
   margin: 20px;
   border: 1px solid black;
-  width: 33.33%;
-  height: 250px;
+  width: 33%;
+  height: 150px;
   box-sizing: border-box;
   position: relative;
   float: left;
@@ -66,7 +67,7 @@ h1 {
 /*********LARGE DEVICES**************/
 @media (min-width: 992px) {
   .Sections{
-    width: 33.33%;
+    width: 33%;
 
   }
 }
