@@ -19,7 +19,7 @@ h1 {
 .beef_Heading{
   background-color: #f9906f;
   width: 100px;
-  height: 30px;
+  height: 50px;
   margin-bottom: 50px;
   border: 1px solid black;
   box-sizing: border-box;
@@ -55,8 +55,8 @@ h1 {
   padding: 10px;
   margin: 20px;
   border: 1px solid black;
-  width: 31%;
-  height: 75px;
+  width: 30%;
+  height: 100px;
   box-sizing: border-box;
   position: relative;
   float: left;
