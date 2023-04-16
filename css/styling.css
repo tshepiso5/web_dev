@@ -11,7 +11,7 @@ h1 {
   position: absolute;
   top: 0;
   right: 0;
-  clear: both;
+  clear: left;
 
 }
 
@@ -47,7 +47,7 @@ h1 {
 
 .Sections{
   background-color: gray;
-  padding: 10px 20px 10px 50px;
+  padding: 10px;
   margin: 20px;
   width: 33.33%;
   position: relative;
