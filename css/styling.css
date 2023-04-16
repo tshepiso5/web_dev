@@ -56,3 +56,30 @@ h1 {
   margin-right: 10px;
 
 }
+
+/*********LARGE DEVICES**************/
+@media (min-width: 992px) {
+  .Sections{
+    width: 33.33%;
+
+  }
+}
+
+
+
+/*************MEDIUM DEVICES**********/
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .Sections {
+    width: 50%;
+  }
+
+}
+
+
+
+/***********SMALL DEVICES************/
+
+@media (max-width: 767px) {
+
+}
