@@ -37,13 +37,13 @@ h1 {
 
 }
 
-.paraText {
+.paraText{
 
   margin-top: 10px;
   background-color: blue;
 }
 
-#Sections{
+.Sections{
   background-color: gray;
   padding: 10px 20px 10px 50px;
   margin: 20px;
