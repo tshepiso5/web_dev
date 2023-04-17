@@ -101,7 +101,7 @@ h1 {
     margin-right: 10px;
   }
 
-  div > .kota_Heading, .paraText {
+  div > .kota_Heading .paraText {
     width: 100%;
   }
 
