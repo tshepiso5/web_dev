@@ -4,7 +4,7 @@
 h1 {
   text-align: center;
   font-family: fantasy, cursive, serif, sans-serif;
-  font-size: 175%;
+  font-size: 200%;
 }
 
 
@@ -12,7 +12,7 @@ h1 {
   background-color: #EB8A12;
   font-family: fantasy, cursive, serif, sans-serif;
   font-size: 125%;
-  width: 100px;
+  width: 150px;
   max-height: 65px;
   text-align: center;
   border: 1px solid black;
