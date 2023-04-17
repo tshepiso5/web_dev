@@ -3,11 +3,15 @@
 
 h1 {
   text-align: center;
+  font-family: fantasy, cursive, serif, sans-serif;
+  font-size: 75%;
 }
 
 
 .chicken_Heading{
   background-color: #EB8A12;
+  font-family: fantasy, cursive, serif, sans-serif;
+  font-size: 25%;
   width: 100px;
   height: 50px;
   text-align: center;
@@ -23,6 +27,8 @@ h1 {
 .beef_Heading{
   background-color: #f9906f;
   text-align: center;
+  font-family: fantasy, cursive, serif, sans-serif;
+  font-size: 25%;
   width: 100px;
   height: 50px;
   margin-bottom: 50px;
@@ -37,6 +43,8 @@ h1 {
 
 .kota_Heading{
   background-color: #996515;
+  font-family: fantasy, cursive, serif, sans-serif;
+  font-size: 25%;
   text-align: center;
   width: 100px;
   height: 50px;
@@ -52,6 +60,7 @@ h1 {
 .paraText{
 
   margin-top: 65px;
+  font-family: fantasy, cursive, serif, sans-serif;
   position: relative;
   width: 99%;
   box-sizing: border-box;
