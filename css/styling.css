@@ -81,9 +81,6 @@ h1 {
 
 /*********LARGE DEVICES**************/
 @media (min-width: 992px) {
-  .col-lg-4 {
-
-  }
   .Sections {
     width: 30%;
 
@@ -101,7 +98,7 @@ h1 {
     margin-right: 10px;
   }
 
-  #kota_section {
+  .kota_section {
     width: 100%;
   }
 
