@@ -81,6 +81,9 @@ h1 {
 
 /*********LARGE DEVICES**************/
 @media (min-width: 992px) {
+  .col-lg-4 {
+
+  }
   .Sections {
     width: 30%;
 
@@ -95,8 +98,11 @@ h1 {
   .Sections {
     width: 50%;
     float: left;
-    position: relative;
     margin-right: 10px;
+  }
+
+  .kota_Heading, .paraText {
+    width: 100%;
   }
 
 }
