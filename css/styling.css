@@ -27,6 +27,8 @@ h1 {
 #chText {
   background-color: #EB8A12;
   position: absolute;
+  top: 0;
+  right: 0;
 }
 
 #bhText {
