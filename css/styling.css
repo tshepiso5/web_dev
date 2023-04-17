@@ -1,3 +1,6 @@
+/********BASE STYLES************/
+
+
 h1 {
   text-align: center;
 }
@@ -60,7 +63,6 @@ h1 {
   margin: 20px;
   border: 1px solid black;
   width: 30%;
-/*  max-height: 150px; */
   box-sizing: border-box;
   position: relative;
   float: left;
@@ -88,5 +90,7 @@ h1 {
 /***********SMALL DEVICES************/
 
 @media (max-width: 767px) {
-
+.Sections {
+  width: 100%;
+}
 }
