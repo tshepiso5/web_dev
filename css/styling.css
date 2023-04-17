@@ -74,6 +74,9 @@ h1 {
 @media (min-width: 992px) {
   .Sections {
     width: 30%;
+    float: left;
+    margin-right: 10px;
+    
 
   }
 }
