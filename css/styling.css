@@ -13,7 +13,7 @@ h1 {
   font-family: fantasy, cursive, serif, sans-serif;
   font-size: 125%;
   width: 100px;
-  height: 50px;
+  /*height: 50px;*/
   text-align: center;
   border: 1px solid black;
   margin-bottom: 50px;
@@ -30,7 +30,7 @@ h1 {
   font-family: fantasy, cursive, serif, sans-serif;
   font-size: 125%;
   width: 100px;
-  height: 50px;
+  /*height: 50px;*/
   margin-bottom: 50px;
   border: 1px solid black;
   box-sizing: border-box;
@@ -47,7 +47,7 @@ h1 {
   font-size: 125%;
   text-align: center;
   width: 100px;
-  height: 50px;
+/*  height: 50px; */
   border: 1px solid black;
   margin-bottom: 50px;
   box-sizing: border-box;
