@@ -8,8 +8,8 @@ h1 {
 }
 
 
-.section_Heading{
-
+.chicken_Heading{
+  background-color: #EB8A12;
   font-family: fantasy, cursive, serif, sans-serif;
   font-size: 125%;
   width: 100px;
@@ -24,23 +24,8 @@ h1 {
 
 }
 
-#chText {
-  background-color: #EB8A12;
-  position: absolute;
-  top: 0;
-  right: 0;
-}
-
-#bhText {
-  background-color: #f9906f;
-}
-
-#khText {
-  background-color: #996515;
-}
-/*
 .beef_Heading{
-
+  background-color: #f9906f;
   text-align: center;
   font-family: fantasy, cursive, serif, sans-serif;
   font-size: 25%;
@@ -57,7 +42,7 @@ h1 {
 }
 
 .kota_Heading{
-
+  background-color: #996515;
   font-family: fantasy, cursive, serif, sans-serif;
   font-size: 25%;
   text-align: center;
@@ -71,7 +56,7 @@ h1 {
   right: 0;
 
 }
-*/
+
 .paraText{
 
   margin-top: 65px;
@@ -82,7 +67,7 @@ h1 {
 }
 
 .Sections{
-  background-color: #cc080b;
+  background-color: orange;
   padding: 10px;
   margin: 20px;
   border: 1px solid black;
